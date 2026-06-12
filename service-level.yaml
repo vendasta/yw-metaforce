@@ -1,0 +1,6 @@
+services:
+  - name: yw-metaforce
+    owner: honey-badger
+    language: ruby
+    nonServiceType: library
+    description: "A ruby client for interacting with the Salesforce Metadata and Services API's."
